@@ -69,4 +69,4 @@
 
 
 
-![Nikita's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MahirMuzahid&hide_border=true&v=2)
+![Nikita's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemamu&hide_border=true&v=2)
