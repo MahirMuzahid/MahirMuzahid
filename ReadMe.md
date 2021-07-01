@@ -27,7 +27,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Mahir Muzahid a <b>undergraduate<b/> from <a href="http://www.northsouth.edu/"> <b>North South University</b>, Dhaka, Bangladesh (" Center of Excellence in Higher Education ")</a>. <br>
+    Hello, I am Mahir Muzahid a <b>undergraduate<b/> from <a href="http://www.northsouth.edu/"> <b>North South University</b>, Dhaka, Bangladesh <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>.Net Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
   </em> 
   <br>
