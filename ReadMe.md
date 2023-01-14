@@ -14,7 +14,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mahir Muzahid </h1>
-<h3 align="center">.Net & Xamarin Developer | Software Developer </h3>
+<h3 align="center">.Net & MAUI & Java Script Developer | Software Developer </h3>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mahir-muzahid-629484109/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
@@ -38,7 +38,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Currently working on my Startup Shikkhanobish App<br>
+✔ Currently working on Startup Shikkhanobish App<br>
 ✔ Love to play video game and football🥰<br>
 ✔ Have big dreams<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
