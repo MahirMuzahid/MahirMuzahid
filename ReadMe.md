@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images4.alphacoders.com/587/thumb-1920-587777.png" height="200"/>
+  <img src="https://i.ibb.co/k2RcF71/gg.jpg" height="200"/>
 </p>
 <br>
 
