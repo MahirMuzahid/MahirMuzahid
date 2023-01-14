@@ -42,12 +42,4 @@
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
   ✔ The one thing I am goot at: <b> THINKING</b> 😎<br><br><br><br>
  
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-  
- 
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
