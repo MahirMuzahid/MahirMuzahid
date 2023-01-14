@@ -8,7 +8,7 @@
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-CSharp DotNet Xamarin-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-CSharp DotNet MAUI-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Bangladesh-success" />
   <img src="https://img.shields.io/badge/Languages-Bangla%20%26%20English-brightgreen" />
 </p>
