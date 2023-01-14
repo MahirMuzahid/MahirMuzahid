@@ -17,8 +17,6 @@
 <h3 align="center">.Net & MAUI & Java Script Developer | Software Developer </h3>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mahir-muzahid-629484109/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-
  <a href = "mailto: mahirmuzahid@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
