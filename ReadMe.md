@@ -1,45 +1,42 @@
-<p align="center">
-  <img src="https://i.ibb.co/k2RcF71/gg.jpg" height="200"/>
-</p>
-<br>
+<div align="center">
 
-<p align="left"> 
+# Hello, I'm Mahir Muzahid! 👋
 
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-CSharp DotNet MAUI-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Bangladesh-success" />
-  <img src="https://img.shields.io/badge/Languages-Bangla%20%26%20English-brightgreen" />
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mahir Muzahid </h1>
-<h3 align="center">.Net & MAUI & Java Script Developer | Software Developer </h3>
-<p align="center">
+I'm passionate about building impactful software using **C#**, **.NET**, and **Blazor**. As an entrepreneur, I'm currently diving deep into AI to create innovative solutions.
 
- <a href = "mailto: mahirmuzahid@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
-</p>
+</div>
 
+---
 
+### 🛠 Tech Stack
 
-<p align="center">
-  <em>
-    Hello, I am Mahir Muzahid a <b>undergraduate<b/> from <a href="http://www.northsouth.edu/"> <b>North South University</b>, Dhaka, Bangladesh <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>.Net Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life can be short but dream can't”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?&style=for-the-badge&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/Blazor-%23512BD4.svg?&style=for-the-badge&logo=blazor&logoColor=white"/>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+---
 
-✔ Currently working on Startup Shikkhanobish App<br>
-✔ Love to play video game and football🥰<br>
-✔ Have big dreams<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-  ✔ The one thing I am goot at: <b> THINKING</b> 😎<br><br><br><br>
- 
- 
+### 💼 Where to find me
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mahir-muzahid/)
+[<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/mahir-muzahid)
+
+---
+
+### 📘 My latest projects
+
+- [AI Integration in Blazor App](#) *(description or link to your project)*
+- [Advanced Analytics with .NET Core](#) *(description or link to your project)*
+
+---
+
+### 📖 Currently Learning
+
+- Advanced Machine Learning Techniques
+- Microservice Architecture
+
+---
+
+<div align="center">
+
+Feel free to reach out for collaborations or just a friendly chat! ✨
+
+</div>
