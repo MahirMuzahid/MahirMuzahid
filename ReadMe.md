@@ -2,7 +2,7 @@
 
 # Welcome to Mahir Muzahid's Hub 👋
 
-![Banner]([https://yourimageurl.com/banner-image.png](https://imgur.com/a/0z8XuxM)) <!-- Replace with your banner image URL -->
+![Banner]([[https://yourimageurl.com/banner-image.png](https://imgur.com/a/0z8XuxM](https://i.ibb.co/TKtDsWZ/pic.jpg))) <!-- Replace with your banner image URL -->
 
 I'm a dedicated **Software Engineer** & **Entrepreneur**, currently exploring the potentials of **AI** to build innovative solutions. With a passion for **C#**, **.NET**, and **Blazor**, I strive to create impactful software that makes a difference.
 
